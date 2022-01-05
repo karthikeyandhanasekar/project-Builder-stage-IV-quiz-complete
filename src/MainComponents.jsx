@@ -1,8 +1,7 @@
-import { Route, Routes } from "react-router-dom"
+import { Route, Routes } from "react-router-dom";
 import Home from "./components/Home";
 import Quiz from './components/quizpage';
 import Result from "./components/results";
-
 
 
 const Main = () => {
